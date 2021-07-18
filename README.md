@@ -1,3 +1,5 @@
 DemoGitKraken
 
-Hello world From Git Session
+Hello world Git Session
+
+Git is awesome
